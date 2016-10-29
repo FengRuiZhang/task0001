@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>我的第一个网页</title>
+    <link type="text/css" rel="stylesheet" href="task0001.css">
+</head>
+
+<body>
+
+    <h1>FengRuiZhang</h1>
+    
+    <ul>
+      <li><a href="https://github.com/FengRuiZhang/Hello-World">
+          Hello-World</a> </li>
+      <li><a href="https://github.com/FengRuiZhang/git">
+          git</a> </li>
+     </ul>
+
+     <h2>汇总学习之旅</h2>
+ 
+     <p>今天是2016年10月29号下午</p>
+
+     <img src="images/hope.jpg">
+</body>
+</html>
